@@ -1,5 +1,5 @@
 echo off
-title Hatipoðlu BOT Ana Paneli
+title Hatipoglu BOT Ana Paneli
 color 0f
 cls
 :a
